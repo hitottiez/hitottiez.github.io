@@ -1,35 +1,35 @@
 # Journal
-1. ђј‘єђmЋu, Џ¬ЋВ—TЋq, —L–ШЌN—Y, ’†–мЉІђ¶,
-Ѓg€к”К•Ё‘М”FЋЇ‚ЙЉо‚Г‚­‰№ђє‚ЕЋwЋ¦‚і‚к‚Ѕ•Ё‘М‚М‘I‘р–@,Ѓh
-“dЋqЏо•с’КђMЉw‰п_•¶ЋЏD, 2015.
+1. иҐїжќ‘д»Ѓеї—, е°ЏзЇ иЈ•е­ђ, жњ‰жњЁеє·й›„, дё­й‡Ће№№з”џ,
+вЂњдёЂи€¬з‰©дЅ“иЄЌи­гЃ«еџєгЃҐгЃЏйџіеЈ°гЃ§жЊ‡з¤єгЃ•г‚ЊгЃџз‰©дЅ“гЃ®йЃёжЉћжі•,вЂќ
+й›»е­ђжѓ…е ±йЂљдїЎе­¦дјљи«–ж–‡иЄЊD, 2015.
 
 # International Conference
 1. H. Nishimura, Y. Nagai, K. Tasaka and H. Yanagihara,
-ЃgObject Tracking by Branched Correlation Filters and Particle Filter,Ѓh
+вЂњObject Tracking by Branched Correlation Filters and Particle Filter,вЂќ
 Proc. ACPR, 2017.
 1. H. Nishimura, Y. Ozasa, Y. Ariki, and M. Nakano,
-ЃgSelection of an Object Requested by Speech Based on Generic Object Recognition,Ѓh
+вЂњSelection of an Object Requested by Speech Based on Generic Object Recognition,вЂќ
 Proc. ICMI Workshop on MMRWHRI, 2014.
 1. H. Nishimura, Y. Ozasa, Y. Ariki, and M. Nakano,
-ЃgSelection of Unknown Objects Specifed by Speech Using Models Constructed from Web Images,Ѓh
+вЂњSelection of Unknown Objects Specifed by Speech Using Models Constructed from Web Images,вЂќ
 Proc. ICPR, 2014.
 1. H. Nishimura, Y. Ozasa, Y. Ariki, and M. Nakano,
-ЃgObject Recognition by Integrated Information Using Web Images,Ѓh
+вЂњObject Recognition by Integrated Information Using Web Images,вЂќ
 Proc. ACPR, 2013.
 
 # Domestic Conference (Japanese)
-1. ђј‘єђmЋu, ‰i€д—LЉу, Џ¬—С’B–з, ЋраV–О”V,
-Ѓg‘ЉЉЦѓtѓBѓ‹ѓ^‚р—p‚ў‚ЅЉm—¦“IЏу‘Фђ„’и‚Й‚ж‚й’·ЋћЉФ•Ё‘М’ЗђХ,Ѓh
-‰ж‘њ‚М”FЋЇЃE—ќ‰рѓVѓ“ѓ|ѓWѓEѓЂ, 2017.
-1. ђј‘єђmЋu, ‰i€д—LЉу, Џ¬—С’B–з, ЋраV–О”V,
-ЃgѓJЃ[ѓlѓ‹‰»‘ЉЉЦѓtѓBѓ‹ѓ^‚р—p‚ў‚ЅЉm—¦“I‰^“®—\‘Є‚ЙЉо‚Г‚­•Ё‘М’ЗђХ–@,Ѓh
-‰f‘њЏо•сѓЃѓfѓBѓAЉw‰п“~‹G‘е‰п, 2016.
-1. ђј‘єђmЋu, Џ¬ЋВ—TЋq, —L–ШЌN—Y, ’†–мЉІђ¶,
-ЃgWeb ‰ж‘њ‚р—p‚ў‚Ѕ€к”К•Ё‘М”FЋЇ‚ЖЋwЋ¦”­b‚М‰№ђє”FЋЇ‚р“ќЌ‡‚µ‚Ѕ•Ё‘М‘I‘р–@,Ѓh
-‰ж‘њ‚М”FЋЇЃE—ќ‰рѓVѓ“ѓ|ѓWѓEѓЂ, 2014.
+1. иҐїжќ‘д»Ѓеї—, ж°ёдє•жњ‰еёЊ, е°Џжћ—йЃ”д№џ, й…’жѕ¤иЊ‚д№‹,
+вЂњз›ёй–ўгѓ•г‚Јгѓ«г‚їг‚’з”ЁгЃ„гЃџзўєзЋ‡зљ„зЉ¶ж…‹жЋЁе®љгЃ«г‚€г‚‹й•·ж™‚й–“з‰©дЅ“иїЅи·Ў,вЂќ
+з”»еѓЏгЃ®иЄЌи­гѓ»зђ†и§Јг‚·гѓігѓќг‚ёг‚¦гѓ , 2017.
+1. иҐїжќ‘д»Ѓеї—, ж°ёдє•жњ‰еёЊ, е°Џжћ—йЃ”д№џ, й…’жѕ¤иЊ‚д№‹,
+вЂњг‚«гѓјгѓЌгѓ«еЊ–з›ёй–ўгѓ•г‚Јгѓ«г‚їг‚’з”ЁгЃ„гЃџзўєзЋ‡зљ„йЃ‹е‹•дє€жё¬гЃ«еџєгЃҐгЃЏз‰©дЅ“иїЅи·Ўжі•,вЂќ
+ж еѓЏжѓ…е ±гѓЎгѓ‡г‚Јг‚ўе­¦дјље†¬е­Је¤§дјљ, 2016.
+1. иҐїжќ‘д»Ѓеї—, е°ЏзЇ иЈ•е­ђ, жњ‰жњЁеє·й›„, дё­й‡Ће№№з”џ,
+вЂњWeb з”»еѓЏг‚’з”ЁгЃ„гЃџдёЂи€¬з‰©дЅ“иЄЌи­гЃЁжЊ‡з¤єз™єи©±гЃ®йџіеЈ°иЄЌи­г‚’зµ±еђ€гЃ—гЃџз‰©дЅ“йЃёжЉћжі•,вЂќ
+з”»еѓЏгЃ®иЄЌи­гѓ»зђ†и§Јг‚·гѓігѓќг‚ёг‚¦гѓ , 2014.
 1. H. Nishimura, Y. Ozasa, Y. Ariki, and M. Nakano,
-ЃgObject Recognition by Integrated Information Using Speech and Web Images,Ѓh
-‰ж‘њ‚М”FЋЇЃE—ќ‰рѓVѓ“ѓ|ѓWѓEѓЂ, 2013.
-1. ђј‘єђmЋu, Џ¬ЋВ—TЋq, —L–ШЌN—Y, ’†–мЉІђ¶,
-ЃgWeb ‰ж‘њ‚р—p‚ў‚Ѕѓ}ѓ‹ѓ`ѓ‚Ѓ[ѓ_ѓ‹Џо•с‚Й‚ж‚й•Ё‘М”FЋЇ,Ѓh
-“dЋqЏо•с’КђMЉw‰п‘ЌЌ‡‘е‰п, 2013.
+вЂњObject Recognition by Integrated Information Using Speech and Web Images,вЂќ
+з”»еѓЏгЃ®иЄЌи­гѓ»зђ†и§Јг‚·гѓігѓќг‚ёг‚¦гѓ , 2013.
+1. иҐїжќ‘д»Ѓеї—, е°ЏзЇ иЈ•е­ђ, жњ‰жњЁеє·й›„, дё­й‡Ће№№з”џ,
+вЂњWeb з”»еѓЏг‚’з”ЁгЃ„гЃџгѓћгѓ«гѓЃгѓўгѓјгѓЂгѓ«жѓ…е ±гЃ«г‚€г‚‹з‰©дЅ“иЄЌи­,вЂќ
+й›»е­ђжѓ…е ±йЂљдїЎе­¦дјљз·Џеђ€е¤§дјљ, 2013.

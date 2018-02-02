@@ -1,9 +1,17 @@
-# Journal
+# About
+- Hitoshi Nishimura (西村 仁志)
+- KDDI Research, Inc.
+
+# Research
+Computer vision (Object tracking, Human action recognition)
+
+# Publications
+## Journal
 1. 西村仁志, 小篠裕子, 有木康雄, 中野幹生,
 “一般物体認識に基づく音声で指示された物体の選択法,”
 電子情報通信学会論文誌D, 2015.
 
-# International Conference
+## International Conference
 1. H. Nishimura, Y. Nagai, K. Tasaka and H. Yanagihara,
 “Object Tracking by Branched Correlation Filters and Particle Filter,”
 Proc. ACPR, 2017.
@@ -17,7 +25,7 @@ Proc. ICPR, 2014.
 “Object Recognition by Integrated Information Using Web Images,”
 Proc. ACPR, 2013.
 
-# Domestic Conference (Japanese)
+## Domestic Conference (Japanese)
 1. 西村仁志, 永井有希, 小林達也, 酒澤茂之,
 “相関フィルタを用いた確率的状態推定による長時間物体追跡,”
 画像の認識・理解シンポジウム, 2017.

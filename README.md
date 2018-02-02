@@ -1,12 +1,9 @@
-# 学術論文
+# Journal
 1. 西村仁志, 小篠裕子, 有木康雄, 中野幹生,
 “一般物体認識に基づく音声で指示された物体の選択法,”
 電子情報通信学会論文誌D, 2015.
 
-# 国際会議（査読あり）
-1. H. Nishimura, N. Makibuchi, K. Tasaka and H. Yanagihara,
-“Human Tracking in World Coordinates with Locally Rectified Omni-directional Images (仮),”
-Proc. ICIP, 2018.
+# International Conference
 1. H. Nishimura, Y. Nagai, K. Tasaka and H. Yanagihara,
 “Object Tracking by Branched Correlation Filters and Particle Filter,”
 Proc. ACPR, 2017.
@@ -20,7 +17,7 @@ Proc. ICPR, 2014.
 “Object Recognition by Integrated Information Using Web Images,”
 Proc. ACPR, 2013.
 
-# 全国大会
+# Domestic Conference (Japanese)
 1. 西村仁志, 永井有希, 小林達也, 酒澤茂之,
 “相関フィルタを用いた確率的状態推定による長時間物体追跡,”
 画像の認識・理解シンポジウム, 2017.
@@ -36,8 +33,3 @@ Proc. ACPR, 2013.
 1. 西村仁志, 小篠裕子, 有木康雄, 中野幹生,
 “Web 画像を用いたマルチモーダル情報による物体認識,”
 電子情報通信学会総合大会, 2013.
-
-# 特許
-1. M. Nakano, H. Nishimura, Y. Ozasa, and Y. Ariki,
-“Object recognition system and an object recognition method,”
-U.S. Patent Application 14/190,539, 2014.

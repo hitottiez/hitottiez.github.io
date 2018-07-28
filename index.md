@@ -1,6 +1,6 @@
 # About
 - Hitoshi Nishimura (西村 仁志)
-- KDDI Research, Inc.
+- KDDI Research (KDDI総合研究所)
 
 # Research
 Computer vision (Object tracking, Human action recognition)
@@ -41,3 +41,12 @@ Proc. ACPR, 2013.
 1. 西村仁志, 小篠裕子, 有木康雄, 中野幹生,
 “Web 画像を用いたマルチモーダル情報による物体認識,”
 電子情報通信学会総合大会, 2013.
+
+## SNS
+[Twitter](https://twitter.com/hitottiez)
+[Facebook](https://www.facebook.com/hitoshi.nishimura.75)
+[Ameba blog](https://ameblo.jp/hitotties/)
+[Github](https://github.com/hitottiez)
+[Qiita](https://qiita.com/hitottiez)
+[SlideShare](https://www.slideshare.net/hitoshinishimura75)
+[Google Scholar](https://scholar.google.co.jp/citations?user=iIHuJfUAAAAJ&hl=ja&oi=sra)

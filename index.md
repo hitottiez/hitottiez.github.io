@@ -43,10 +43,10 @@ Proc. ACPR, 2013.
 電子情報通信学会総合大会, 2013.
 
 ## SNS
-[Twitter](https://twitter.com/hitottiez)
-[Facebook](https://www.facebook.com/hitoshi.nishimura.75)
-[Ameba blog](https://ameblo.jp/hitotties/)
-[Github](https://github.com/hitottiez)
-[Qiita](https://qiita.com/hitottiez)
-[SlideShare](https://www.slideshare.net/hitoshinishimura75)
+[Twitter](https://twitter.com/hitottiez), 
+[Facebook](https://www.facebook.com/hitoshi.nishimura.75), 
+[Ameba blog](https://ameblo.jp/hitotties/), 
+[Github](https://github.com/hitottiez), 
+[Qiita](https://qiita.com/hitottiez), 
+[SlideShare](https://www.slideshare.net/hitoshinishimura75), 
 [Google Scholar](https://scholar.google.co.jp/citations?user=iIHuJfUAAAAJ&hl=ja&oi=sra)

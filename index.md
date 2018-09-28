@@ -1,9 +1,18 @@
 # About
 - Hitoshi Nishimura (西村 仁志)
 - KDDI Research (KDDI総合研究所)
+- Nagoya University (名古屋大学)
 
 # Research
 Computer vision (Object tracking, Human action recognition)
+
+# Education
+- 2009-2013: B.S in Kobe University
+- 2013-2015: M.S in Kobe University
+- 2018-now: Ph.D in Nagoya University
+
+# Committii
+- IEICE PRMU Committee
 
 # Publications
 ## Journal

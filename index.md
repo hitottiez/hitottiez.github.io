@@ -11,7 +11,7 @@ Computer vision (Object tracking, Human action recognition)
 - 2013-2015: M.S in Kobe University
 - 2018-now: Ph.D in Nagoya University
 
-# Committii
+# Committee
 - IEICE PRMU Committee
 
 # Publications

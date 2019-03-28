@@ -35,6 +35,9 @@ Proc. ICPR, 2014.
 Proc. ACPR, 2013.
 
 ## Domestic Conference (Japanese)
+1. J. Xu, K. Oniki, H. Nishimura, and K. Tasaka,
+“A Study on Detection of Kicking Motions in Multi-view 4K Soccer Videos,”
+画像符号化シンポジウム/映像メディア処理シンポジウム, 2018.
 1. 西村仁志, 田坂和之, 川西康友, 村瀬洋,
 “人物検出と行動認識を統合したオンライン時空間行動検出手法の検討,”
 映像情報メディア学会冬季大会, 2018.

@@ -16,7 +16,7 @@ Computer vision (Object tracking, Human action recognition)
 
 # Publications
 ## Journal
-1. 西村仁志, 小篠裕子, 有木康雄, 中野幹生,
+1. <u>西村仁志</u>, 小篠裕子, 有木康雄, 中野幹生,
 “一般物体認識に基づく音声で指示された物体の選択法,”
 電子情報通信学会論文誌D, 2015.
 

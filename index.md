@@ -16,6 +16,9 @@ Computer vision (Object tracking, Human action recognition)
 
 # Publications
 ## Journal
+1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
+“複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
+映像情報メディア学会誌, 2019.
 1. H. Sabirin, <u>H. Nishimura</u>, S. Naito,
 “Synchronized Tracking in Multiple Omnidirectional Cameras with Overlapping View,”
 IEICE-D, 2019.

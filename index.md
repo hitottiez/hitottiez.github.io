@@ -18,31 +18,30 @@ Computer vision (Object tracking, Human action recognition)
 ## Journal
 1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
 “複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
-映像情報メディア学会誌, 2019.
+映像情報メディア学会誌, 2019. [[paper]](https://www.jstage.jst.go.jp/article/itej/73/5/73_1004/_pdf/-char/ja)
 1. H. Sabirin, <u>H. Nishimura</u>, S. Naito,
 “Synchronized Tracking in Multiple Omnidirectional Cameras with Overlapping View,”
-IEICE-D, 2019.
+IEICE-D, 2019. [paper]
 1. <u>西村仁志</u>, 小篠裕子, 有木康雄, 中野幹生,
 “一般物体認識に基づく音声で指示された物体の選択法,”
-電子情報通信学会論文誌D, 2015.
+電子情報通信学会論文誌D, 2015. [[paper]](https://search.ieice.org/bin/pdf_link.php?category=D&lang=J&year=2015&fname=j98-d_9_1265&abst=)
 
 ## International Conference
-1.<u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi, and H. Murase,
+1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi, and H. Murase,
 “Multiple Human Tracking using Multi-Cues including Primitive Action Features,”
-arXiv:1909.08171, 2019.
-[paper](http://arxiv.org/abs/1909.08171)
+arXiv:1909.08171, 2019. [[paper]](http://arxiv.org/abs/1909.08171)
 1. <u>H. Nishimura</u>, Y. Nagai, K. Tasaka and H. Yanagihara,
 “Object Tracking by Branched Correlation Filters and Particle Filter,”
-Proc. ACPR, 2017.
+Proc. ACPR, 2017. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575803)
 1. <u>H. Nishimura</u>, Y. Ozasa, Y. Ariki, and M. Nakano,
 “Selection of an Object Requested by Speech Based on Generic Object Recognition,”
-Proc. ICMI Workshop on MMRWHRI, 2014.
+Proc. ICMI Workshop on MMRWHRI, 2014. [[paper]](http://delivery.acm.org/10.1145/2670000/2666505/p23-nishimura.pdf?ip=192.26.91.225&id=2666505&acc=ACTIVE%20SERVICE&key=2D77E7682F10D892%2E2D77E7682F10D892%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568865809_46c1b464b7777d0f3f414c1f021a4251)
 1. <u>H. Nishimura</u>, Y. Ozasa, Y. Ariki, and M. Nakano,
 “Selection of Unknown Objects Specifed by Speech Using Models Constructed from Web Images,”
-Proc. ICPR, 2014.
+Proc. ICPR, 2014. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6976802)
 1. <u>H. Nishimura</u>, Y. Ozasa, Y. Ariki, and M. Nakano,
 “Object Recognition by Integrated Information Using Web Images,”
-Proc. ACPR, 2013.
+Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2013/ACPR2013_nishimura.pdf)
 
 ## Domestic Conference (Japanese)
 1. J. Xu, K. Oniki, <u>H. Nishimura</u>, and K. Tasaka,

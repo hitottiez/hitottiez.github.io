@@ -4,7 +4,8 @@
 - Nagoya University (名古屋大学)
 
 # Research
-Computer vision (Object tracking, Human action recognition)
+- Machine learning, Computer vision 
+- Object tracking, Human action recognition
 
 # Education
 - 2009-2013: B.S in Kobe University

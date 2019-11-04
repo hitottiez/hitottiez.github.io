@@ -22,7 +22,7 @@
 映像情報メディア学会誌, 2019. [[paper]](https://www.jstage.jst.go.jp/article/itej/73/5/73_1004/_pdf/-char/ja)
 1. H. Sabirin, <u>H. Nishimura</u>, S. Naito,
 “Synchronized Tracking in Multiple Omnidirectional Cameras with Overlapping View,”
-IEICE-D, 2019. [paper]
+IEICE-D, 2019. [[paper]](https://search.ieice.org/bin/summary_advpub.php?id=2018EDP7305&category=D&lang=E&abst=)
 1. <u>西村仁志</u>, 小篠裕子, 有木康雄, 中野幹生,
 “一般物体認識に基づく音声で指示された物体の選択法,”
 電子情報通信学会論文誌D, 2015. [[paper]](https://search.ieice.org/bin/pdf_link.php?category=D&lang=J&year=2015&fname=j98-d_9_1265&abst=)
@@ -45,12 +45,15 @@ Proc. ICPR, 2014. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2013/ACPR2013_nishimura.pdf)
 
 ## Domestic Conference (Japanese)
-1. J. Xu, K. Oniki, <u>H. Nishimura</u>, and K. Tasaka,
-“A Study on Detection of Kicking Motions in Multi-view 4K Soccer Videos,”
-画像符号化シンポジウム/映像メディア処理シンポジウム, 2018.
+1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
+“基本行動特徴量を用いたオンライン複数人物追跡,”
+画像符号化シンポジウム/映像メディア処理シンポジウム, 2019.
 1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
 “人物検出と行動認識を統合したオンライン時空間行動検出手法の検討,”
 映像情報メディア学会冬季大会, 2018.
+1. J. Xu, K. Oniki, <u>H. Nishimura</u>, and K. Tasaka,
+“A Study on Detection of Kicking Motions in Multi-view 4K Soccer Videos,”
+画像符号化シンポジウム/映像メディア処理シンポジウム, 2018.
 1. <u>西村仁志</u>, 永井有希, 小林達也, 酒澤茂之,
 “相関フィルタを用いた確率的状態推定による長時間物体追跡,”
 画像の認識・理解シンポジウム, 2017.

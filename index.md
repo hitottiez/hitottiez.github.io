@@ -2,8 +2,7 @@
 - Hitoshi Nishimura (西村 仁志)
 - KDDI Research (KDDI総合研究所)
 - Nagoya University (名古屋大学)
-- ht-nishimura [at] kddi-research.jp
-<img src="https://github.com/hitottiez/hitottiez.github.io/blob/master/20190519215322.jpg" width="100">
+- ht-nishimura [at] kddi-research.jp <img src="https://github.com/hitottiez/hitottiez.github.io/blob/master/20190519215322.jpg" width="50">
 
 # Research
 - Machine learning, Computer vision 

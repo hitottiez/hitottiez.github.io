@@ -2,6 +2,7 @@
 - Hitoshi Nishimura (西村 仁志)
 - KDDI Research (KDDI総合研究所)
 - Nagoya University (名古屋大学)
+![](https://github.com/hitottiez/hitottiez.github.io/blob/master/20190519215322.jpg)
 
 # Research
 - Machine learning, Computer vision 
@@ -28,9 +29,6 @@ IEICE-D, 2019. [[paper]](https://search.ieice.org/bin/summary_advpub.php?id=2018
 電子情報通信学会論文誌D, 2015. [[paper]](https://search.ieice.org/bin/pdf_link.php?category=D&lang=J&year=2015&fname=j98-d_9_1265&abst=)
 
 ## International Conference
-1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi, and H. Murase,
-“Multiple Human Tracking using Multi-Cues including Primitive Action Features,”
-arXiv:1909.08171, 2019. [[paper]](http://arxiv.org/abs/1909.08171) [[code]](https://github.com/hitottiez/mht-paf)
 1. <u>H. Nishimura</u>, Y. Nagai, K. Tasaka and H. Yanagihara,
 “Object Tracking by Branched Correlation Filters and Particle Filter,”
 Proc. ACPR, 2017. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575803)
@@ -69,6 +67,11 @@ Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/pa
 1. <u>西村仁志</u>, 小篠裕子, 有木康雄, 中野幹生,
 “Web 画像を用いたマルチモーダル情報による物体認識,”
 電子情報通信学会総合大会, 2013.
+
+## Others
+1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi, and H. Murase,
+“Multiple Human Tracking using Multi-Cues including Primitive Action Features,”
+arXiv:1909.08171, 2019. [[paper]](http://arxiv.org/abs/1909.08171) [[code]](https://github.com/hitottiez/mht-paf)
 
 ## SNS
 [Twitter](https://twitter.com/hitottiez), 

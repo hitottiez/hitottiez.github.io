@@ -3,7 +3,7 @@
 - KDDI Research (KDDI総合研究所)
 - Nagoya University (名古屋大学)
 - ht-nishimura [at] kddi-research.jp
-<img src="https://github.com/hitottiez/hitottiez.github.io/blob/master/20190519215322.jpg" width="320">
+<img src="https://github.com/hitottiez/hitottiez.github.io/blob/master/20190519215322.jpg" width="100">
 
 # Research
 - Machine learning, Computer vision 

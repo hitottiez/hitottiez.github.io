@@ -1,11 +1,15 @@
 # About
 - Hitoshi Nishimura (西村 仁志)
-- KDDI Research, Inc. (KDDI総合研究所), Nagoya University (名古屋大学)
+- KDDI Research, Inc. (KDDI総合研究所)
+- Nagoya University (名古屋大学)
 - ht-nishimura [at] kddi-research.jp
 
+# News
+- Our paper "複数の相関フィルタを用いた見えの変化に頑健な物体追跡" was accepted to 映像情報メディア学会誌.
+
 # Research
-- Machine learning, Computer vision 
-- Object tracking, Human action recognition
+- pattern recognition, computer vision, machine learning 
+- object tracking, human action recognition
 
 # Education
 - 2009-2013: B.S in Kobe University

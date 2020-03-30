@@ -5,7 +5,9 @@
 - ht-nishimura [at] kddi-research.jp
 
 # News
-- Our paper "複数の相関フィルタを用いた見えの変化に頑健な物体追跡" was accepted to 映像情報メディア学会誌.
+- 2019/11/16 We made a presentation in PCSJ/IMPS2019.
+- 2019/9/27 Our code of human tracking [MHT-PAF](https://github.com/hitottiez/mht-paf) is available.
+- 2019/7/22 Our paper "複数の相関フィルタを用いた見えの変化に頑健な物体追跡" was accepted to 映像情報メディア学会誌.
 
 # Research
 - pattern recognition, computer vision, machine learning 

@@ -5,30 +5,33 @@
 - ht-nishimura [at] kddi-research.jp
 
 # News
+- 2020/03/31 Our paper "Multiple Human Tracking using an Omnidirectional Camera with Local Rectification and World Coordinates Representation" was accepted to IEICE-ED.
 - 2019/11/16 We made a presentation in PCSJ/IMPS2019.
-- 2019/9/27 Our code of human tracking [MHT-PAF](https://github.com/hitottiez/mht-paf) is available.
-- 2019/7/22 Our paper "複数の相関フィルタを用いた見えの変化に頑健な物体追跡" was accepted to 映像情報メディア学会誌.
+- 2019/09/27 Our code of human tracking [MHT-PAF](https://github.com/hitottiez/mht-paf) is available.
 
 # Research
 - pattern recognition, computer vision, machine learning 
 - object tracking, human action recognition
 
 # Education
-- 2009-2013: B.S in Kobe University
-- 2013-2015: M.S in Kobe University
 - 2018-now: Ph.D in Nagoya University
+- 2013-2015: M.S in Kobe University
+- 2009-2013: B.S in Kobe University
 
 # Committee
 - IEICE PRMU Committee
 
 # Publications
 ## Journal
+1. <u>H. Nishimura</u>, N. Makibuchi, K. Tasaka, Y. Kawanishi and H. Murase,
+“Multiple Human Tracking using an Omnidirectional Camera with Local Rectification and World Coordinates Representation,”
+IEICE-ED, 2020.
 1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
 “複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
 映像情報メディア学会誌, 2019. [[paper]](https://www.jstage.jst.go.jp/article/itej/73/5/73_1004/_pdf/-char/ja)
 1. H. Sabirin, <u>H. Nishimura</u>, S. Naito,
 “Synchronized Tracking in Multiple Omnidirectional Cameras with Overlapping View,”
-IEICE-D, 2019. [[paper]](https://search.ieice.org/bin/summary_advpub.php?id=2018EDP7305&category=D&lang=E&abst=)
+IEICE-ED, 2019. [[paper]](https://search.ieice.org/bin/summary_advpub.php?id=2018EDP7305&category=D&lang=E&abst=)
 1. <u>西村仁志</u>, 小篠裕子, 有木康雄, 中野幹生,
 “一般物体認識に基づく音声で指示された物体の選択法,”
 電子情報通信学会論文誌D, 2015. [[paper]](https://search.ieice.org/bin/pdf_link.php?category=D&lang=J&year=2015&fname=j98-d_9_1265&abst=)

@@ -21,6 +21,9 @@
 # Committee
 - IEICE PRMU Committee
 
+# Award
+- Best paper award (丹羽高柳賞論文賞), ITE, 2020. [link]
+
 # Publications
 ## Journal
 1. <u>H. Nishimura</u>, N. Makibuchi, K. Tasaka, Y. Kawanishi and H. Murase,
@@ -28,7 +31,7 @@
 IEICE-ED, 2020.
 1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
 “複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
-映像情報メディア学会誌, 2019. [[paper]](https://www.jstage.jst.go.jp/article/itej/73/5/73_1004/_pdf/-char/ja)
+映像情報メディア学会誌, 2019. (Best paper) [[paper]](https://www.jstage.jst.go.jp/article/itej/73/5/73_1004/_pdf/-char/ja)
 1. H. Sabirin, <u>H. Nishimura</u>, S. Naito,
 “Synchronized Tracking in Multiple Omnidirectional Cameras with Overlapping View,”
 IEICE-ED, 2019. [[paper]](https://search.ieice.org/bin/summary_advpub.php?id=2018EDP7305&category=D&lang=E&abst=)

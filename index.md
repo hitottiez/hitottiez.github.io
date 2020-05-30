@@ -5,7 +5,8 @@
 - ht-nishimura [at] kddi-research.jp
 
 # News
-- 2020/03/31 Our paper "Multiple Human Tracking using an Omnidirectional Camera with Local Rectification and World Coordinates Representation" was accepted to IEICE-ED.
+- 2020/05/19 Our journal paper won the best paper award in ITE.
+- 2020/03/31 Our paper was accepted to IEICE-ED.
 - 2019/11/16 We made a presentation in PCSJ/IMPS2019.
 - 2019/09/27 Our code of human tracking [MHT-PAF](https://github.com/hitottiez/mht-paf) is available.
 

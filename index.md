@@ -22,20 +22,20 @@
 # Committee
 - IEICE PRMU Committee
 
-# Award
-- Best paper in the year (丹羽高柳賞論文賞), ITE, 2020. [link]
+# Awards
+- Best paper of the year (丹羽高柳賞論文賞), ITE, 2020. [link]
 
 # Publications
 ## Journal
 1. <u>H. Nishimura</u>, N. Makibuchi, K. Tasaka, Y. Kawanishi and H. Murase,
 “Multiple Human Tracking using an Omnidirectional Camera with Local Rectification and World Coordinates Representation,”
-IEICE-ED, 2020. [[paper]](https://search.ieice.org/bin/pdf_link.php?category=D&lang=E&year=2020&fname=e103-d_6_1265&abst=)
+IEICE-ED, 2020. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E103.D/6/E103.D_2019MVP0009/_pdf/-char/ja)
 1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
 “複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
 映像情報メディア学会誌, 2019. (Best paper) [[paper]](https://www.jstage.jst.go.jp/article/itej/73/5/73_1004/_pdf/-char/ja)
 1. H. Sabirin, <u>H. Nishimura</u>, S. Naito,
 “Synchronized Tracking in Multiple Omnidirectional Cameras with Overlapping View,”
-IEICE-ED, 2019. [[paper]](https://search.ieice.org/bin/pdf_link.php?category=D&fname=e102-d_11_2221&lang=E&year=2019)
+IEICE-ED, 2019. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E102.D/11/E102.D_2018EDP7305/_pdf/-char/ja)
 1. <u>西村仁志</u>, 小篠裕子, 有木康雄, 中野幹生,
 “一般物体認識に基づく音声で指示された物体の選択法,”
 電子情報通信学会論文誌D, 2015. [[paper]](https://search.ieice.org/bin/pdf_link.php?category=D&lang=J&year=2015&fname=j98-d_9_1265&abst=)

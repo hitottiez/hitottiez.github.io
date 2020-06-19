@@ -23,7 +23,7 @@
 - IEICE PRMU Committee
 
 # Awards
-- Best paper of the year (丹羽高柳賞論文賞), ITE, 2020. [link]
+- Best paper of the year (丹羽高柳賞論文賞), ITE, 2020. [[link]](https://www.ite.or.jp/content/awards/)
 
 # Publications
 ## Journal

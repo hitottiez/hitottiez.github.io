@@ -5,6 +5,7 @@
 - ht-nishimura [at] kddi-research.jp
 
 # News
+- 2020/07/31 I won the excellent basic research award 2020 in KDDI Research.
 - 2020/05/19 Our journal won the best paper award in ITE.
 - 2020/03/31 Our journal was accepted to IEICE-ED.
 - 2019/11/16 We made a presentation in PCSJ/IMPS2019.
@@ -23,6 +24,7 @@
 - IEICE PRMU Committee
 
 # Awards
+- Excellent basic research award of the year (優秀基本研究賞), KDDI Research, 2020.
 - Best paper of the year (丹羽高柳賞論文賞), ITE, 2020. [[link]](https://www.ite.or.jp/content/awards/)
 
 # Publications

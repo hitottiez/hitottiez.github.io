@@ -5,6 +5,7 @@
 - ht-nishimura [at] kddi-research.jp
 
 # News
+- 2020/09/11 Our journal was accepted to ITE-MTA.
 - 2020/07/31 I won the excellent basic research award 2020 in KDDI Research.
 - 2020/05/19 Our journal won the best paper award in ITE.
 - 2020/03/31 Our journal was accepted to IEICE-ED.
@@ -29,6 +30,9 @@
 
 # Publications
 ## Journal
+1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi and H. Murase,
+“Multiple Human Tracking with Alternately Updating Trajectories and Multi-Frame Action Features,”
+ITE-MTA, 2020. [paper]
 1. <u>H. Nishimura</u>, N. Makibuchi, K. Tasaka, Y. Kawanishi and H. Murase,
 “Multiple Human Tracking using an Omnidirectional Camera with Local Rectification and World Coordinates Representation,”
 IEICE-ED, 2020. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E103.D/6/E103.D_2019MVP0009/_pdf/-char/ja)

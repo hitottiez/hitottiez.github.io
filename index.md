@@ -1,7 +1,7 @@
 # About
 - Hitoshi Nishimura (西村 仁志)
-- KDDI Research, Inc. (KDDI総合研究所)
-- Nagoya University (名古屋大学)
+- Research engineer at KDDI Research, Inc. (KDDI総合研究所)
+- Ph.D student at Nagoya University (名古屋大学)
 - ht-nishimura [at] kddi-research.jp
 
 # News
@@ -32,7 +32,7 @@
 ## Journal
 1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi and H. Murase,
 “Multiple Human Tracking with Alternately Updating Trajectories and Multi-Frame Action Features,”
-ITE-MTA, 2020. [paper]
+ITE-MTA, 2020. [[paper]](https://www.jstage.jst.go.jp/article/mta/8/4/8_269/_pdf/-char/en)
 1. <u>H. Nishimura</u>, N. Makibuchi, K. Tasaka, Y. Kawanishi and H. Murase,
 “Multiple Human Tracking using an Omnidirectional Camera with Local Rectification and World Coordinates Representation,”
 IEICE-ED, 2020. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E103.D/6/E103.D_2019MVP0009/_pdf/-char/ja)

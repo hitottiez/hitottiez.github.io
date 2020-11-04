@@ -17,9 +17,9 @@
 - Object Tracking, Human Action Recognition
 
 # Education
-- 2018-now: Ph.D in Nagoya University
-- 2013-2015: M.S in Kobe University
-- 2009-2013: B.S in Kobe University
+- 2018.10-now: Ph.D in Nagoya University
+- 2013.04-2015.03: M.S in Kobe University
+- 2009.04-2013.03: B.S in Kobe University
 
 # Committee
 - IEICE PRMU Committee
@@ -87,11 +87,14 @@ Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/pa
 電子情報通信学会総合大会, 2013.
 
 ## Others
+1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
+“複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
+映像情報メディア学会誌 研究ハイライト, 2020.
 1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi, and H. Murase,
 “Multiple Human Tracking using Multi-Cues including Primitive Action Features,”
 arXiv:1909.08171, 2019. [[paper]](http://arxiv.org/abs/1909.08171) [[code]](https://github.com/hitottiez/mht-paf)
 
-## SNS
+# SNS
 [Twitter](https://twitter.com/hitottiez), 
 [Facebook](https://www.facebook.com/hitoshi.nishimura.75), 
 [Ameba blog](https://ameblo.jp/hitotties/), 

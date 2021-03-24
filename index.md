@@ -1,10 +1,10 @@
 # About
 - Hitoshi Nishimura (西村 仁志)
 - Research engineer at KDDI Research, Inc. (KDDI総合研究所)
-- Ph.D student at Nagoya University (名古屋大学)
 - ht-nishimura [at] kddi-research.jp
 
 # News
+- 2021/03/25 I got a Ph.D in Nagoya University.
 - 2020/09/11 Our journal was accepted to ITE-MTA.
 - 2020/07/31 I won the excellent basic research award 2020 in KDDI Research.
 - 2020/05/19 Our journal won the best paper award in ITE.
@@ -17,12 +17,12 @@
 - Object Tracking, Human Action Recognition
 
 # Education
-- 2018.10-now: Ph.D in Nagoya University
+- 2018.10-2021.03: Ph.D in Nagoya University (Early completion)
 - 2013.04-2015.03: M.S in Kobe University
 - 2009.04-2013.03: B.S in Kobe University
 
 # Committee
-- IEICE PRMU Committee
+- 2018.10-now: IEICE PRMU Committee
 
 # Awards
 - Excellent basic research award of the year (優秀基本研究賞), KDDI Research, 2020.
@@ -61,6 +61,9 @@ Proc. ICPR, 2014. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2013/ACPR2013_nishimura.pdf)
 
 ## Domestic Conference (Japanese)
+1. <u>西村仁志</u>, 小森田賢史, 川西康友, 村瀬洋,
+“低フレームレート物体検出と高フレームレート特徴点追跡の統合による高速・高精度な複数物体追跡,”
+画像の認識・理解シンポジウム, 2021.
 1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
 “基本行動特徴量を用いたオンライン複数人物追跡,”
 画像符号化シンポジウム/映像メディア処理シンポジウム, 2019.

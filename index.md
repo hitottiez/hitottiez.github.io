@@ -1,10 +1,11 @@
 # About
 - Hitoshi Nishimura (西村 仁志)
+- Ph.D. (Informatics)
 - Research engineer at KDDI Research, Inc. (KDDI総合研究所)
 - ht-nishimura [at] kddi-research.jp
 
 # News
-- 2021/03/25 I got a Ph.D in Nagoya University.
+- 2021/03/25 I got a Ph.D. in Nagoya University.
 - 2020/09/11 Our journal was accepted to ITE-MTA.
 - 2020/07/31 I won the excellent basic research award 2020 in KDDI Research.
 - 2020/05/19 Our journal won the best paper award in ITE.
@@ -17,7 +18,7 @@
 - Object Tracking, Human Action Recognition
 
 # Education
-- 2018.10-2021.03: Ph.D in Nagoya University (Early completion)
+- 2018.10-2021.03: Ph.D. in Nagoya University (Early completion)
 - 2013.04-2015.03: M.S in Kobe University
 - 2009.04-2013.03: B.S in Kobe University
 

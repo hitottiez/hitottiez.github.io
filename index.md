@@ -91,6 +91,9 @@ Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/pa
 電子情報通信学会総合大会, 2013.
 
 ## Others
+1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
+“SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
+arXiv:2106.14259, 2021. [[paper]](https://arxiv.org/abs/2106.14259) [code]
 1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
 “複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
 映像情報メディア学会誌 研究ハイライト, 2020.

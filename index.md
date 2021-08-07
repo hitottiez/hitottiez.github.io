@@ -1,17 +1,15 @@
+[[Japanese Homepage]](https://github.com/hitottiez/hitottiez.github.io/blob/master/index_jp.md)
+
 # About
-- Hitoshi Nishimura (西村 仁志)
+- Hitoshi Nishimura
 - Ph.D. (Informatics)
-- Research engineer at KDDI Research, Inc. (KDDI総合研究所)
+- Research engineer at KDDI Research, Inc.
 - ht-nishimura [at] kddi-research.jp
 
 # News
 - 2021/03/25 I got a Ph.D. in Nagoya University.
 - 2020/09/11 Our journal was accepted to ITE-MTA.
 - 2020/07/31 I won the excellent basic research award 2020 in KDDI Research.
-- 2020/05/19 Our journal won the best paper award in ITE.
-- 2020/03/31 Our journal was accepted to IEICE-ED.
-- 2019/11/16 We made a presentation in PCSJ/IMPS2019.
-- 2019/09/27 Our code of human tracking [MHT-PAF](https://github.com/hitottiez/mht-paf) is available.
 
 # Research
 - Pattern Recognition, Computer Vision, Machine Learning 
@@ -23,11 +21,12 @@
 - 2009.04-2013.03: B.S in Kobe University
 
 # Committee
-- 2018.10-now: IEICE PRMU Committee
+- 2018.10-now: Committee, PRMU, IEICE
+- 2021.04-now: Vice Chairperson, Overseas literature department, ITE
 
 # Awards
-- Excellent basic research award of the year (優秀基本研究賞), KDDI Research, 2020.
-- Best paper of the year (丹羽高柳賞論文賞), ITE, 2020. [[link]](https://www.ite.or.jp/content/awards/)
+- Excellent basic research award of the year, KDDI Research, 2020.
+- Best paper of the year, ITE, 2020. [[link]](https://www.ite.or.jp/content/awards/)
 
 # Publications
 ## Journal

@@ -1,3 +1,5 @@
+[[英語ホームページ]](https://github.com/hitottiez/hitottiez.github.io/blob/master/index.md)
+
 # 自己紹介
 - 西村 仁志
 - 博士（情報学）

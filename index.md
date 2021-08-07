@@ -1,4 +1,4 @@
-[[Japanese Homepage]](https://github.com/hitottiez/hitottiez.github.io/blob/master/index_jp.md)
+[[Japanese Homepage]](index_jp.md)
 
 # About
 - Hitoshi Nishimura

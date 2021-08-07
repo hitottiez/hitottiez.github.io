@@ -1,4 +1,4 @@
-[[英語ホームページ]](https://github.com/hitottiez/hitottiez.github.io/blob/master/index.md)
+[[英語ホームページ]](index.md)
 
 # 自己紹介
 - 西村 仁志

@@ -7,6 +7,7 @@
 - ht-nishimura [at] kddi-research.jp
 
 # News
+- 2022/01/01 The abstract of my Ph.D. thesis was published in JSAI.
 - 2021/03/25 I got a Ph.D. in Nagoya University.
 - 2020/09/11 Our journal was accepted to ITE-MTA.
 - 2020/07/31 I won the excellent basic research award 2020 in KDDI Research.
@@ -61,6 +62,9 @@ Proc. ICPR, 2014. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2013/ACPR2013_nishimura.pdf)
 
 ## Domestic Conference (Japanese)
+1. 岡田純京, <u>西村仁志</u>, 小篠裕子,
+“ハイパースペクトルカメラによる物体追跡の問題点に関する分析,”
+情報処理学会全国大会, 2022.
 1. <u>西村仁志</u>, 小森田賢史, 川西康友, 村瀬洋,
 “低フレームレート物体検出と高フレームレート特徴点追跡の統合による高速・高精度な複数物体追跡,”
 画像の認識・理解シンポジウム, 2021.
@@ -90,6 +94,9 @@ Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/pa
 電子情報通信学会総合大会, 2013.
 
 ## Others
+1. <u>西村仁志</u>,
+“広域撮影可能な監視カメラを用いた人物追跡,”
+特集「人工知能分野における博士論文」, 人工知能学会誌, 2022.
 1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
 “SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
 arXiv:2106.14259, 2021. [[paper]](https://arxiv.org/abs/2106.14259) [code]

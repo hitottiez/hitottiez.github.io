@@ -94,7 +94,7 @@ Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/pa
 
 ## その他
 1. <u>西村仁志</u>,
-“複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
+“広域撮影可能な監視カメラを用いた人物追跡,”
 特集「人工知能分野における博士論文」, 人工知能学会誌, 2022.
 1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
 “SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”

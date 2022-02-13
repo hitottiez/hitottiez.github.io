@@ -4,7 +4,7 @@
 - Hitoshi Nishimura
 - Ph.D. (Informatics)
 - Research engineer at KDDI Research, Inc.
-- ht-nishimura [at] kddi-research.jp
+- ht-nishimura [at] kddi.com
 
 # News
 - 2022/01/01 The abstract of my Ph.D. thesis was published in JSAI.

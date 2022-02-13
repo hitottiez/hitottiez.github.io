@@ -4,7 +4,7 @@
 - 西村 仁志
 - 博士（情報学）
 - KDDI総合研究所 研究員
-- ht-nishimura [at] kddi-research.jp
+- ht-nishimura [at] kddi.com
 
 # ニュース
 - 2022/01/01 人工知能学会誌の博士論文特集に掲載されました。

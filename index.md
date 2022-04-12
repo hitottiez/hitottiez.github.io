@@ -3,7 +3,7 @@
 # About
 - Hitoshi Nishimura
 - Ph.D. (Informatics)
-- Research engineer at KDDI Research, Inc.
+- Core Researcher at KDDI Research, Inc.
 - ht-nishimura [at] kddi.com
 
 # News
@@ -13,8 +13,9 @@
 - 2020/07/31 I won the excellent basic research award 2020 in KDDI Research.
 
 # Research
-- Pattern Recognition, Computer Vision, Machine Learning 
+- Computer Vision, Pattern Recognition, Machine Learning 
 - Object Tracking, Human Action Recognition
+- Video Coding, Point Cloud Coding
 
 # Education
 - 2018.10-2021.03: Ph.D. in Nagoya University (Early completion)
@@ -22,8 +23,9 @@
 - 2009.04-2013.03: B.S in Kobe University
 
 # Committee
-- 2018.10-now: Committee, PRMU, IEICE
-- 2021.04-now: Vice Chairperson, Overseas literature department, ITE
+- 2022.04-now: Chairperson, Overseas literature department, ITE
+- 2021.04-2022.03: Vice Chairperson, Overseas literature department, ITE
+- 2018.06-2022.06: Committee, PRMU, IEICE
 
 # Awards
 - Excellent basic research award of the year, KDDI Research, 2020.

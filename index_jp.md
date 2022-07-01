@@ -7,10 +7,9 @@
 - ht-nishimura [at] kddi.com
 
 # ニュース
+- 2022/06/24 我々の人物追跡に関する論文が信学会論文誌に採録されました。
 - 2022/01/01 人工知能学会誌の博士論文特集に掲載されました。
 - 2021/03/25 名古屋大学で博士号を取得しました。
-- 2020/09/11 我々の論文がITE-MTAに採録されました。
-- 2020/07/31 KDDI総合研究所で優秀基本研究賞を受賞しました。
 
 # 研究分野
 - コンピュータビジョン, パターン認識, 機械学習
@@ -33,16 +32,19 @@
 
 # 業績
 ## 論文誌（査読有り）
-1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi and H. Murase,
+1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
+“SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
+IEICE-ED, 2022. [paper]
+1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi, and H. Murase,
 “Multiple Human Tracking with Alternately Updating Trajectories and Multi-Frame Action Features,”
 ITE-MTA, 2020. [[paper]](https://www.jstage.jst.go.jp/article/mta/8/4/8_269/_pdf/-char/en)
-1. <u>H. Nishimura</u>, N. Makibuchi, K. Tasaka, Y. Kawanishi and H. Murase,
+1. <u>H. Nishimura</u>, N. Makibuchi, K. Tasaka, Y. Kawanishi, and H. Murase,
 “Multiple Human Tracking using an Omnidirectional Camera with Local Rectification and World Coordinates Representation,”
 IEICE-ED, 2020. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E103.D/6/E103.D_2019MVP0009/_pdf/-char/ja)
 1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
 “複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
 映像情報メディア学会誌, 2019. (Best paper) [[paper]](https://www.jstage.jst.go.jp/article/itej/73/5/73_1004/_pdf/-char/ja)
-1. H. Sabirin, <u>H. Nishimura</u>, S. Naito,
+1. H. Sabirin, <u>H. Nishimura</u>, and S. Naito,
 “Synchronized Tracking in Multiple Omnidirectional Cameras with Overlapping View,”
 IEICE-ED, 2019. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E102.D/11/E102.D_2018EDP7305/_pdf/-char/ja)
 1. <u>西村仁志</u>, 小篠裕子, 有木康雄, 中野幹生,
@@ -50,7 +52,7 @@ IEICE-ED, 2019. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E102.D/1
 電子情報通信学会論文誌D, 2015. [[paper]](https://search.ieice.org/bin/pdf_link.php?category=D&lang=J&year=2015&fname=j98-d_9_1265&abst=)
 
 ## 国際会議（査読有り）
-1. <u>H. Nishimura</u>, Y. Nagai, K. Tasaka and H. Yanagihara,
+1. <u>H. Nishimura</u>, Y. Nagai, K. Tasaka, and H. Yanagihara,
 “Object Tracking by Branched Correlation Filters and Particle Filter,”
 Proc. ACPR, 2017. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575803)
 1. <u>H. Nishimura</u>, Y. Ozasa, Y. Ariki, and M. Nakano,
@@ -64,6 +66,9 @@ Proc. ICPR, 2014. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2013/ACPR2013_nishimura.pdf)
 
 ## 国内会議
+1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
+“Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
+画像の認識・理解シンポジウム, 2022.
 1. 岡田純京, <u>西村仁志</u>, 小篠裕子,
 “ハイパースペクトルカメラによる物体追跡の問題点に関する分析,”
 情報処理学会全国大会, 2022.

@@ -34,10 +34,10 @@
 ## 論文誌（査読有り）
 1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
 “SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
-IEICE-ED, 2022. [paper]
+IEICE-ED, 2022. [paper] [[code]](https://github.com/hitottiez/sdof-tracker)
 1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi, and H. Murase,
 “Multiple Human Tracking with Alternately Updating Trajectories and Multi-Frame Action Features,”
-ITE-MTA, 2020. [[paper]](https://www.jstage.jst.go.jp/article/mta/8/4/8_269/_pdf/-char/en)
+ITE-MTA, 2020. [[paper]](https://www.jstage.jst.go.jp/article/mta/8/4/8_269/_pdf/-char/en) [[code]](https://github.com/hitottiez/mht-paf)
 1. <u>H. Nishimura</u>, N. Makibuchi, K. Tasaka, Y. Kawanishi, and H. Murase,
 “Multiple Human Tracking using an Omnidirectional Camera with Local Rectification and World Coordinates Representation,”
 IEICE-ED, 2020. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E103.D/6/E103.D_2019MVP0009/_pdf/-char/ja)
@@ -106,7 +106,7 @@ Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/pa
 特集「人工知能分野における博士論文」, 人工知能学会誌, 2022.
 1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
 “SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
-arXiv:2106.14259, 2021. [[paper]](https://arxiv.org/abs/2106.14259) [code]
+arXiv:2106.14259, 2021. [[paper]](https://arxiv.org/abs/2106.14259) [[code]](https://github.com/hitottiez/sdof-tracker)
 1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
 “複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
 映像情報メディア学会誌 研究ハイライト, 2020.

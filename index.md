@@ -33,7 +33,7 @@
 # Publications
 ## Journal
 1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
-“SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection,”
+“SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
 IEICE-ED, 2022. [paper]
 1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi, and H. Murase,
 “Multiple Human Tracking with Alternately Updating Trajectories and Multi-Frame Action Features,”
@@ -66,6 +66,9 @@ Proc. ICPR, 2014. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2013/ACPR2013_nishimura.pdf)
 
 ## Domestic Conference (Japanese)
+1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
+“Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
+画像の認識・理解シンポジウム, 2022.
 1. 岡田純京, <u>西村仁志</u>, 小篠裕子,
 “ハイパースペクトルカメラによる物体追跡の問題点に関する分析,”
 情報処理学会全国大会, 2022.

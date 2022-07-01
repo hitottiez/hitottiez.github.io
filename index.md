@@ -7,10 +7,9 @@
 - ht-nishimura [at] kddi.com
 
 # News
+- 2022/06/24 Our journal about human tracking was accepted to IEICE-ED.
 - 2022/01/01 The abstract of my Ph.D. thesis was published in JSAI.
 - 2021/03/25 I got a Ph.D. in Nagoya University.
-- 2020/09/11 Our journal was accepted to ITE-MTA.
-- 2020/07/31 I won the excellent basic research award 2020 in KDDI Research.
 
 # Research
 - Computer Vision, Pattern Recognition, Machine Learning 
@@ -33,10 +32,13 @@
 
 # Publications
 ## Journal
-1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi and H. Murase,
+1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
+“SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection,”
+IEICE-ED, 2022. [paper]
+1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi, and H. Murase,
 “Multiple Human Tracking with Alternately Updating Trajectories and Multi-Frame Action Features,”
 ITE-MTA, 2020. [[paper]](https://www.jstage.jst.go.jp/article/mta/8/4/8_269/_pdf/-char/en)
-1. <u>H. Nishimura</u>, N. Makibuchi, K. Tasaka, Y. Kawanishi and H. Murase,
+1. <u>H. Nishimura</u>, N. Makibuchi, K. Tasaka, Y. Kawanishi, and H. Murase,
 “Multiple Human Tracking using an Omnidirectional Camera with Local Rectification and World Coordinates Representation,”
 IEICE-ED, 2020. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E103.D/6/E103.D_2019MVP0009/_pdf/-char/ja)
 1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
@@ -50,7 +52,7 @@ IEICE-ED, 2019. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E102.D/1
 電子情報通信学会論文誌D, 2015. [[paper]](https://search.ieice.org/bin/pdf_link.php?category=D&lang=J&year=2015&fname=j98-d_9_1265&abst=)
 
 ## International Conference
-1. <u>H. Nishimura</u>, Y. Nagai, K. Tasaka and H. Yanagihara,
+1. <u>H. Nishimura</u>, Y. Nagai, K. Tasaka, and H. Yanagihara,
 “Object Tracking by Branched Correlation Filters and Particle Filter,”
 Proc. ACPR, 2017. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575803)
 1. <u>H. Nishimura</u>, Y. Ozasa, Y. Ariki, and M. Nakano,

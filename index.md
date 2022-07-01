@@ -44,7 +44,7 @@ IEICE-ED, 2020. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E103.D/6
 1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
 “複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
 映像情報メディア学会誌, 2019. (Best paper) [[paper]](https://www.jstage.jst.go.jp/article/itej/73/5/73_1004/_pdf/-char/ja)
-1. H. Sabirin, <u>H. Nishimura</u>, S. Naito,
+1. H. Sabirin, <u>H. Nishimura</u>, and S. Naito,
 “Synchronized Tracking in Multiple Omnidirectional Cameras with Overlapping View,”
 IEICE-ED, 2019. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E102.D/11/E102.D_2018EDP7305/_pdf/-char/ja)
 1. <u>西村仁志</u>, 小篠裕子, 有木康雄, 中野幹生,

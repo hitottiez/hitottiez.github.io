@@ -7,14 +7,12 @@
 - ht-nishimura [at] kddi.com
 
 # ニュース
+- 2022/11/28 PCSJ/IMPS2022で発表しました。
 - 2022/06/24 我々の人物追跡に関する論文が信学会論文誌に採録されました。
-- 2022/01/01 人工知能学会誌の博士論文特集に掲載されました。
-- 2021/03/25 名古屋大学で博士号を取得しました。
 
 # 研究分野
-- コンピュータビジョン, パターン認識, 機械学習
-- 物体追跡, 人物行動認識
-- 映像符号化, 点群符号化
+- コンピュータビジョン（物体追跡, 人物行動認識）
+- 圧縮（2D映像圧縮, 3Dメッシュ圧縮）
 
 # 学歴
 - 2018.10-2021.03: 博士, 名古屋大学（早期卒業）
@@ -66,6 +64,12 @@ Proc. ICPR, 2014. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2013/ACPR2013_nishimura.pdf)
 
 ## 国内会議
+1. <u>西村仁志</u>, 河村圭,
+“動的メッシュ圧縮のための変位量のコンテキスト適応型2値算術符号化,”
+映像情報メディア学会冬季大会, 2022.
+1. <u>西村仁志</u>, 河村圭,
+“動的メッシュ圧縮における変位量のコンテキスト適応型算術符号化,”
+画像符号化シンポジウム/映像メディア処理シンポジウム, 2022.
 1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
 “Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
 画像の認識・理解シンポジウム, 2022.

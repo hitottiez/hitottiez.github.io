@@ -7,14 +7,12 @@
 - ht-nishimura [at] kddi.com
 
 # News
+- 2022/11/28 I had a presentation in PCSJ/IMPS2022.
 - 2022/06/24 Our journal about human tracking was accepted to IEICE-ED.
-- 2022/01/01 The abstract of my Ph.D. thesis was published in JSAI.
-- 2021/03/25 I got a Ph.D. in Nagoya University.
 
 # Research
-- Computer Vision, Pattern Recognition, Machine Learning 
-- Object Tracking, Human Action Recognition
-- Video Coding, Point Cloud Coding
+- Computer Vision (Object Tracking, Human Action Recognition)
+- Compression (2D Video Compression, 3D Mesh Compression)
 
 # Education
 - 2018.10-2021.03: Ph.D. in Nagoya University (Early completion)
@@ -66,6 +64,12 @@ Proc. ICPR, 2014. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2013/ACPR2013_nishimura.pdf)
 
 ## Domestic Conference (Japanese)
+1. <u>西村仁志</u>, 河村圭,
+“動的メッシュ圧縮のための変位量のコンテキスト適応型2値算術符号化,”
+映像情報メディア学会冬季大会, 2022.
+1. <u>西村仁志</u>, 河村圭,
+“動的メッシュ圧縮における変位量のコンテキスト適応型算術符号化,”
+画像符号化シンポジウム/映像メディア処理シンポジウム, 2022.
 1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
 “Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
 画像の認識・理解シンポジウム, 2022.

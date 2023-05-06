@@ -7,8 +7,8 @@
 - ht-nishimura [at] kddi.com
 
 # News
+- 2022/12/23 I had a presentation in ITE winter conference 2022.
 - 2022/11/28 I had a presentation in PCSJ/IMPS2022.
-- 2022/06/24 Our journal about human tracking was accepted to IEICE-ED.
 
 # Research
 - Computer Vision (Object Tracking, Human Action Recognition)
@@ -19,9 +19,16 @@
 - 2013.04-2015.03: M.S in Kobe University
 - 2009.04-2013.03: B.S in Kobe University
 
+# Work Experience
+- 2023.04-now: Tsukuba University
+- 2016.04-now: KDDI Research, Inc.
+- 2015.04-2016.03: KDDI CORPORATION
+
 # Committee
-- 2022.04-now: Chairperson, Overseas literature department, ITE
-- 2021.04-2022.03: Vice Chairperson, Overseas literature department, ITE
+- 2023.04-now: Comittee, AVM, IPSJ
+- 2022.06-now: Associate Editor, ITE Journal, ITE
+- 2022.06-2023.05: Chairperson, Overseas literature department, ITE
+- 2021.06-2022.05: Vice Chairperson, Overseas literature department, ITE
 - 2018.06-2022.06: Committee, PRMU, IEICE
 
 # Awards

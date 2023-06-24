@@ -118,7 +118,21 @@ FIT, 2023.
 “Web画像を用いたマルチモーダル情報による物体認識,”
 電子情報通信学会総合大会, 2013.
 
-## 特許
+## その他
+1. <u>西村仁志</u>,
+“広域撮影可能な監視カメラを用いた人物追跡,”
+特集「人工知能分野における博士論文」, 人工知能学会誌, 2022.
+1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
+“SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
+arXiv:2106.14259, 2021. [[paper]](https://arxiv.org/abs/2106.14259) [[code]](https://github.com/hitottiez/sdof-tracker)
+1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
+“複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
+映像情報メディア学会誌 研究ハイライト, 2020.
+1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi, and H. Murase,
+“Multiple Human Tracking using Multi-Cues including Primitive Action Features,”
+arXiv:1909.08171, 2019. [[paper]](http://arxiv.org/abs/1909.08171) [[code]](https://github.com/hitottiez/mht-paf)
+
+# 特許
 1. “メッシュ復号装置、メッシュ復号方法及びプログラム,”
 特願, 2023.
 1. “メッシュ復号装置、メッシュ復号方法及びプログラム,”
@@ -151,20 +165,6 @@ FIT, 2023.
 特願2017-105746, 2017.
 1. “変化点で複数候補を考慮して物体を追跡する装置、プログラム及び方法,”
 特願2016-221019, 2016.
-
-## その他
-1. <u>西村仁志</u>,
-“広域撮影可能な監視カメラを用いた人物追跡,”
-特集「人工知能分野における博士論文」, 人工知能学会誌, 2022.
-1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
-“SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
-arXiv:2106.14259, 2021. [[paper]](https://arxiv.org/abs/2106.14259) [[code]](https://github.com/hitottiez/sdof-tracker)
-1. <u>西村仁志</u>, 田坂和之, 川西康友, 村瀬洋,
-“複数の相関フィルタを用いた見えの変化に頑健な物体追跡,”
-映像情報メディア学会誌 研究ハイライト, 2020.
-1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi, and H. Murase,
-“Multiple Human Tracking using Multi-Cues including Primitive Action Features,”
-arXiv:1909.08171, 2019. [[paper]](http://arxiv.org/abs/1909.08171) [[code]](https://github.com/hitottiez/mht-paf)
 
 # SNS
 [Twitter](https://twitter.com/hitottiez), 

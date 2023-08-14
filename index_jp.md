@@ -75,6 +75,9 @@ Proc. ICPR, 2014. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2013/ACPR2013_nishimura.pdf)
 
 ## 国内会議
+1. 明堂絵美, <u>西村仁志</u>, 河村圭,
+“動的メッシュ圧縮におけるLoDベース変位量並び替えに関する検討,”
+映像情報メディア学会メディア工学研究会, 2023.
 1. <u>西村仁志</u>, 加藤晴久, 河村圭,
 “動的メッシュ圧縮における変位量の量子化タイミングに関する検討,”
 FIT, 2023.

@@ -7,9 +7,9 @@
 - ht-nishimura [at] kddi.com
 
 # News
+- 2023/11/14 Our paper was selected as a best paper award of FIT2023.
+- 2023/09/22 Our paper was accepted to VCIP2023.
 - 2023/06/21 Our paper was accepted to ICIP2023.
-- 2022/12/23 I had a presentation in ITE winter conference 2022.
-- 2022/11/28 I had a presentation in PCSJ/IMPS2022.
 
 # Research
 - Computer Vision (Object Tracking, Human Action Recognition)
@@ -33,6 +33,7 @@
 - 2018.06-2022.06: Committee, PRMU, IEICE
 
 # Awards
+- Funai best paper award, FIT, 2023. [[link]](https://www.ipsj.or.jp/award/funai_best-paper.html)
 - Excellent basic research award of the year, KDDI Research, 2020.
 - Best paper of the year, ITE, 2020. [[link]](https://www.ite.or.jp/content/awards/)
 
@@ -58,6 +59,9 @@ IEICE-ED, 2019. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E102.D/1
 電子情報通信学会論文誌D, 2015. [[paper]](https://search.ieice.org/bin/pdf_link.php?category=D&lang=J&year=2015&fname=j98-d_9_1265&abst=)
 
 ## International Conference
+1. <u>H. Nishimura</u>, H. Kato, and K. Kawamura,
+“Arithmetic Coding of Displacements in Dynamic Meshes with Bypass Mode for Complexity Reduction,”
+Proc. VCIP, 2023. [paper]
 1. <u>H. Nishimura</u>, H. Kato, and K. Kawamura,
 “HIERARCHICAL ARITHMETIC CODING OF DISPLACEMENTS FOR DYNAMIC MESH COMPRESSION,”
 Proc. ICIP, 2023. [paper]

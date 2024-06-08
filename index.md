@@ -7,9 +7,8 @@
 - ht-nishimura [at] kddi.com
 
 # News
-- 2023/11/14 Our paper was selected as a best paper award of FIT2023.
-- 2023/09/22 Our paper was accepted to VCIP2023.
-- 2023/06/21 Our paper was accepted to ICIP2023.
+- 2024/06 Our paper was accepted to ICIP2024.
+- 2023/11 Our paper was selected as a best paper award of FIT2023.
 
 # Research
 - Computer Vision (Object Tracking, Human Action Recognition)
@@ -61,11 +60,17 @@ IEICE-ED, 2019. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E102.D/1
 
 ## International Conference
 1. <u>H. Nishimura</u>, H. Kato, and K. Kawamura,
+“QUANTIZATION AFTER INTER PREDICTION IN DISPLACEMENT CODING OF DYNAMIC MESHES,”
+Proc. ICIP, 2024. [paper]
+1. R. Morita, <u>H. Nishimura</u>, K. Watanabe, A. Dengel, and J. Zhou,
+“Edge-based Denoising Image Compression,”
+Proc. EUSIPCO, 2024. [paper]
+1. <u>H. Nishimura</u>, H. Kato, and K. Kawamura,
 “Arithmetic Coding of Displacements in Dynamic Meshes with Bypass Mode for Complexity Reduction,”
-Proc. VCIP, 2023. [paper]
+Proc. VCIP, 2023. [[paper]](https://ieeexplore.ieee.org/document/10402693)
 1. <u>H. Nishimura</u>, H. Kato, and K. Kawamura,
 “HIERARCHICAL ARITHMETIC CODING OF DISPLACEMENTS FOR DYNAMIC MESH COMPRESSION,”
-Proc. ICIP, 2023. [paper]
+Proc. ICIP, 2023. [[paper]](https://ieeexplore.ieee.org/document/10222117)
 1. <u>H. Nishimura</u>, Y. Nagai, K. Tasaka, and H. Yanagihara,
 “Object Tracking by Branched Correlation Filters and Particle Filter,”
 Proc. ACPR, 2017. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8575803)

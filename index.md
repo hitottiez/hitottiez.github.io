@@ -85,6 +85,9 @@ Proc. ICPR, 2014. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2013/ACPR2013_nishimura.pdf)
 
 ## Domestic Conference (Japanese)
+1. <u>西村仁志</u>, 橋本慧志, 黒川茂莉,
+“交通ヒヤリハット検知のための拡散モデルを用いた動画データ拡張に関する検討,”
+ME研究会, 2024.
 1. <u>西村仁志</u>, 披田野清良, 黒川茂莉,
 “拡散モデルによる動画データのプライバシー保護に向けて,”
 画像センシングシンポジウム, 2024.

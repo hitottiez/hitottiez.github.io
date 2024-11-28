@@ -25,7 +25,8 @@
 - 2015.04-2016.03: KDDI CORPORATION
 
 # Committee
-- 2023.09-now: Vice Chairperson, Publication department, SSII2024
+- 2024.09-now: Chairperson, Publication department, SSII2025
+- 2023.09-2024.08: Vice Chairperson, Publication department, SSII2024
 - 2023.04-now: Comittee, AVM, IPSJ
 - 2022.06-now: Associate Editor, ITE Journal, ITE
 - 2022.06-2023.05: Chairperson, Overseas literature department, ITE
@@ -41,7 +42,7 @@
 ## Journal
 1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
 “SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
-IEICE-ED, 2022. [paper] [[code]](https://github.com/hitottiez/sdof-tracker)
+IEICE-ED, 2022. [[paper]](https://doi.org/10.1587/transinf.2022EDP7022) [[code]](https://github.com/hitottiez/sdof-tracker)
 1. <u>H. Nishimura</u>, K. Tasaka, Y. Kawanishi, and H. Murase,
 “Multiple Human Tracking with Alternately Updating Trajectories and Multi-Frame Action Features,”
 ITE-MTA, 2020. [[paper]](https://www.jstage.jst.go.jp/article/mta/8/4/8_269/_pdf/-char/en) [[code]](https://github.com/hitottiez/mht-paf)
@@ -61,10 +62,10 @@ IEICE-ED, 2019. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E102.D/1
 ## International Conference
 1. <u>H. Nishimura</u>, H. Kato, and K. Kawamura,
 “QUANTIZATION AFTER INTER PREDICTION IN DISPLACEMENT CODING OF DYNAMIC MESHES,”
-Proc. ICIP, 2024. [paper]
+Proc. ICIP, 2024. [[paper]](https://ieeexplore.ieee.org/document/10648035)
 1. R. Morita, <u>H. Nishimura</u>, K. Watanabe, A. Dengel, and J. Zhou,
 “Edge-based Denoising Image Compression,”
-Proc. EUSIPCO, 2024. [paper]
+Proc. EUSIPCO, 2024. [[paper]](https://arxiv.org/abs/2409.10978)
 1. <u>H. Nishimura</u>, H. Kato, and K. Kawamura,
 “Arithmetic Coding of Displacements in Dynamic Meshes with Bypass Mode for Complexity Reduction,”
 Proc. VCIP, 2023. [[paper]](https://ieeexplore.ieee.org/document/10402693)
@@ -85,6 +86,9 @@ Proc. ICPR, 2014. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2013/ACPR2013_nishimura.pdf)
 
 ## Domestic Conference (Japanese)
+1. 橋本慧志, <u>西村仁志</u>, 黒川茂莉,
+“マルチモーダル大規模言語モデルを用いたキャプション自動生成による監視映像異常検知,”
+ViEW, 2024.
 1. <u>西村仁志</u>, 橋本慧志, 黒川茂莉,
 “交通ヒヤリハット検知のための拡散モデルを用いた動画データ拡張に関する検討,”
 ME研究会, 2024.
@@ -162,6 +166,11 @@ arXiv:1909.08171, 2019. [[paper]](http://arxiv.org/abs/1909.08171) [[code]](http
 “技術解説：動的メッシュ符号化の標準化,”
 映像情報メディア学会誌, 2024.
 
+# Lecture
+1. 橋本慧志, <u>西村仁志</u>,
+“マルチモーダルAIを用いたドラレコ映像からのヒヤリハット検知,”
+東京農工大学スマートモビリティ研究拠点シンポジウム, 2024.
+
 # Patent
 1. “メッシュ復号装置、メッシュ復号方法及びプログラム,”
 特願2024-065030, 2024.
@@ -215,10 +224,9 @@ arXiv:1909.08171, 2019. [[paper]](http://arxiv.org/abs/1909.08171) [[code]](http
 特願2016-221019, 2016.
 
 # SNS
-[Twitter](https://twitter.com/hitottiez), 
-[Facebook](https://www.facebook.com/hitoshi.nishimura.75), 
-[Ameba blog](https://ameblo.jp/hitotties/), 
-[Github](https://github.com/hitottiez), 
+[X](https://twitter.com/hitottiez), 
+[Ameba blog](https://ameblo.jp/hitotties), 
+[GitHub](https://github.com/hitottiez), 
 [Qiita](https://qiita.com/hitottiez), 
 [SlideShare](https://www.slideshare.net/hitoshinishimura75), 
 [Google Scholar](https://scholar.google.co.jp/citations?user=iIHuJfUAAAAJ&hl=ja&oi=sra)

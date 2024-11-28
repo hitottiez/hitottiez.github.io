@@ -228,8 +228,8 @@ arXiv:1909.08171, 2019. [[paper]](http://arxiv.org/abs/1909.08171) [[code]](http
 特願2016-221019, 2016.
 
 # SNS
-[X](https://twitter.com/hitottie), 
-[Ameba blog](https://ameblo.jp/hitotties/), 
+[X](https://twitter.com/hitottiez), 
+[Ameba blog](https://ameblo.jp/hitotties), 
 [GitHub](https://github.com/hitottiez), 
 [Qiita](https://qiita.com/hitottiez), 
 [SlideShare](https://www.slideshare.net/hitoshinishimura75), 

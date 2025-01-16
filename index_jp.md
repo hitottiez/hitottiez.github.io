@@ -60,6 +60,9 @@ IEICE-ED, 2019. [[paper]](https://www.jstage.jst.go.jp/article/transinf/E102.D/1
 電子情報通信学会論文誌D, 2015. [[paper]](https://search.ieice.org/bin/pdf_link.php?category=D&lang=J&year=2015&fname=j98-d_9_1265&abst=)
 
 ## 国際会議（査読有り）
+1. Y. Kawanishi, <u>H. Nishimura</u>, and H. Murase,
+“Human Pose Estimation from an Extremely Low-resolution Image Sequence by Pose Transition Embedding Network,”
+Proc. VISAPP, 2025. [paper]
 1. <u>H. Nishimura</u>, H. Kato, and K. Kawamura,
 “QUANTIZATION AFTER INTER PREDICTION IN DISPLACEMENT CODING OF DYNAMIC MESHES,”
 Proc. ICIP, 2024. [[paper]](https://ieeexplore.ieee.org/document/10648035)

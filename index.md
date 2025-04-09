@@ -27,7 +27,7 @@
 # Committee
 - 2024.09-now: Chairperson, Publication department, SSII2025
 - 2023.09-2024.08: Vice Chairperson, Publication department, SSII2024
-- 2023.04-now: Comittee, AVM, IPSJ
+- 2023.04-2025.03: Comittee, AVM, IPSJ
 - 2022.06-now: Associate Editor, ITE Journal, ITE
 - 2022.06-2023.05: Chairperson, Overseas literature department, ITE
 - 2021.06-2022.05: Vice Chairperson, Overseas literature department, ITE
@@ -89,6 +89,12 @@ Proc. ICPR, 2014. [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnu
 Proc. ACPR, 2013. [[paper]](http://www.me.cs.scitec.kobe-u.ac.jp/publications/papers/2013/ACPR2013_nishimura.pdf)
 
 ## Domestic Conference (Japanese)
+1. 鷄内朋也, 小西達也, Derda Kaymak, Bing Liu, 松本一則, 橋本慧志, <u>西村仁志</u>, 黒川茂莉,
+“分布外検知と継続学習の統合による段階的モデル成長に向けて,”
+JSAI, 2025.
+1. 松本一則, 黒川茂莉, 鷄内朋也, 橋本慧志, <u>西村仁志</u>,
+“SVD Trainig を用いた連合継続学習の検討と評価,”
+IBISML研究会, 2025.
 1. 橋本慧志, <u>西村仁志</u>, 黒川茂莉,
 “マルチモーダル大規模言語モデルを用いたキャプション自動生成による監視映像異常検知,”
 ViEW, 2024.
@@ -165,6 +171,9 @@ arXiv:2106.14259, 2021. [[paper]](https://arxiv.org/abs/2106.14259) [[code]](htt
 arXiv:1909.08171, 2019. [[paper]](http://arxiv.org/abs/1909.08171) [[code]](https://github.com/hitottiez/mht-paf)
 
 # Article
+1. <u>西村仁志</u>, 披田野清良, 黒川茂莉,
+“拡散モデルによる動画データのプライバシー保護に向けて,”
+画像ラボ, 2025.
 1. 徐建鋒, <u>西村仁志</u>, 岸本広輝,
 “技術解説：動的メッシュ符号化の標準化,”
 映像情報メディア学会誌, 2024.

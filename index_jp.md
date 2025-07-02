@@ -1,3 +1,5 @@
+![myphoto](Nishimura_sama_0000-1107_cut.jpg)
+
 [[英語ホームページ]](index.md)
 
 # 自己紹介
@@ -7,8 +9,8 @@
 - ht-nishimura [at] kddi.com
 
 # ニュース
+- 2025/06 我々の論文がIEICE-EDに採録されました。
 - 2024/06 我々の論文がICIP2024に採録されました。
-- 2023/11 FIT2023において船井ベストペーパー賞を受賞しました。
 
 # 研究分野
 - コンピュータビジョン（物体追跡, 人物行動認識）
@@ -40,6 +42,9 @@
 
 # 業績
 ## 論文誌（査読有り）
+1. <u>H. Nishimura</u>, H. Kato, and K. Kawamura,
+“Residual Quantization in Displacement Coding of Dynamic Meshes,”
+IEICE-ED, 2026. [paper]
 1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
 “SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
 IEICE-ED, 2022. [[paper]](https://doi.org/10.1587/transinf.2022EDP7022) [[code]](https://github.com/hitottiez/sdof-tracker)

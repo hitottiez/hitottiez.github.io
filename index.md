@@ -1,3 +1,5 @@
+![myphoto](Nishimura_sama_0000-1107_cut.jpg)
+
 [[Japanese Homepage]](index_jp.md)
 
 # About

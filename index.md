@@ -9,8 +9,8 @@
 - ht-nishimura [at] kddi.com
 
 # News
+- 2025/06 Our paper was accepted to IEICE-ED.
 - 2024/06 Our paper was accepted to ICIP2024.
-- 2023/11 Our paper was selected as a best paper award of FIT2023.
 
 # Research
 - Computer Vision (Object Tracking, Human Action Recognition)
@@ -42,6 +42,9 @@
 
 # Publications
 ## Journal
+1. <u>H. Nishimura</u>, H. Kato, and K. Kawamura,
+“Residual Quantization in Displacement Coding of Dynamic Meshes,”
+IEICE-ED, 2026. [paper]
 1. <u>H. Nishimura</u>, S. Komorita, Y. Kawanishi, and H. Murase,
 “SDOF-Tracker: Fast and Accurate Multiple Human Tracking by Skipped-Detection and Optical-Flow,”
 IEICE-ED, 2022. [[paper]](https://doi.org/10.1587/transinf.2022EDP7022) [[code]](https://github.com/hitottiez/sdof-tracker)
